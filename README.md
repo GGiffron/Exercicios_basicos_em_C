@@ -1,2 +1,2 @@
-# Beginner_C
- Exercicios básicos em C da faculdade
+# Exercícios de Linguagem C
+ Exercicios em C da faculdade
